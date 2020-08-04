@@ -54,7 +54,7 @@ As you work your way through the 30 challenges you should check them off in the 
 Each time you finish one of these group challenges, check it off (`- [x]`) and provide a link to the new repository your group used to collaborate on this challenge.
 
 - [ ] 01 - [drum kit]()
-- [ ] 02 - [clock]()
+- [x] 02 - [clock](https://github.com/ms-np/Clock-and-Follow-Along-Dropdown)
 - [ ] 03 - [css variables]()
 - [ ] 05 - [flex panel gallery]()
 - [ ] 06 - [type ahead]()
@@ -72,7 +72,7 @@ Each time you finish one of these group challenges, check it off (`- [x]`) and p
 - [ ] 22 - [Follow Along Link Highlighter]()
 - [ ] 23 - [Speech Synthesis]()
 - [ ] 24 - [Sticky Nav]()
-- [ ] 26 - [Stripe Follow Along Nav]()
+- [x] 26 - [Stripe Follow Along Nav](https://github.com/ms-np/Clock-and-Follow-Along-Dropdown)
 - [ ] 27 - [Click & Drag]()
 - [ ] 28 - [Video Speed Controller]()
 - [ ] 29 - [Countdown timer]()
